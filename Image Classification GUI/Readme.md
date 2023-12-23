@@ -22,7 +22,7 @@ To set up the project, follow these steps:
 
     ```bash
      https://github.com/PranavAI2050/ML_Projects.git
-    cd your-repository
+     cd your-repository
     ```
 
 2. **Install dependencies:**
@@ -31,23 +31,7 @@ To set up the project, follow these steps:
     pip install -r requirements.txt
     ```
 ## Screenshots
-
-### About Page
-![About](https://github.com/PranavAI2050/ML_Projects/assets/123180829/8455228e-4494-4e61-a343-57eab34bf576)
-
-### Dataset
-![dataset](https://github.com/PranavAI2050/ML_Projects/assets/123180829/a6c563a6-872b-49aa-b5d7-4e2a5c8e18ed)
-### Model Architecture
-![Model](https://github.com/PranavAI2050/ML_Projects/assets/123180829/c5354103-f059-4da2-8822-245db22f1651)
-
-
-### Train
- ![train](https://github.com/PranavAI2050/ML_Projects/assets/123180829/43c5dde2-b071-438d-b162-23a1b6ffb6bc)
-
-### Predict
-<img width="696" alt="Predict" src="https://github.com/PranavAI2050/ML_Projects/assets/123180829/90777947-3b5a-4cc2-a599-ba5a9f2f3366">
- 
-
+https://github.com/PranavAI2050/ML_Projects/assets/123180829/0b1babb4-c742-49c2-940c-b712bb59cae7
 
 ## Usage
 
